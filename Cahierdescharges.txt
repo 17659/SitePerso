@@ -1,0 +1,15 @@
+# Cachier des charges fonctionnel
+
+**Présentation générale
+
+1) Projet : Création d'un site personnel, avec un cv et diverses fonctions, le tout connecter à une base de données.
+
+2) Finalités : Fred inspecte, test et évalue notre site.
+
+3) Contexte : Dans le cadre de l'évaluation en développement web (HTLM, Javascript, PHP etc...).
+
+4) Fonctions & Services : Le site web sera un site personnel, avec une page d'accueil, un formulaire, mon CV et un lien d'intégration Linkedin. Le tout ne sera pas très réusis visuellement mais qui j'espère, fonctionnera. Le site ne sera surement pas en base donnée (si il est présent, il ne marchera surement pas) et n'aura pas de licornes et de pallettes ou autres fantaisies inutiles.
+
+5) Contraintre : Le temps et mon niveau en développement principalement.
+
+6) Critères d'évaluation : Le site ansi que le lien sont fonctionnel et le travail se trouve sur GitHub.
