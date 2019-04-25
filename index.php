@@ -8,9 +8,7 @@ if (isset($_GET['page'])) {
     $page = $_GET['page'];
 }
 
-else {
-    $page = "accueil";
-}
+
 
 $path = "./includes/";
 $contenu = glob($path . "*.inc.php");
@@ -20,8 +18,6 @@ if (in_array($page, $contenu)) {
     include_once $page;
 }
 
-else {
-    include_once "./includes/accueil.inc.php";
-}
+
 
 include_once "./includes/footer.php";
